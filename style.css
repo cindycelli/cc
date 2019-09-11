@@ -1,0 +1,23 @@
+ body {
+ 	font-family: Georgia, serif;
+ 	background-color: #D1A7A0;
+ }
+
+ h1, h2, h3 {
+ 	font-weight: lighter;
+ 	color: #D4DCCD;
+ }
+
+ .card-white {
+ 	background-color: white;
+ 	padding: 24px;
+ 	margin-bottom: 8px;
+ }
+
+ #ah {
+ 	border-radius: 200px;
+ }
+
+ div{
+ border-radius: 50px;	
+ }
